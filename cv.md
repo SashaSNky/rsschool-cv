@@ -34,7 +34,7 @@ _ _ _
 * https://sashasnky.github.io/cssBayan/cssBayan/index.html
 - - - 
 ## Education and courses:
-*	University: BELARUSIAN-RUSSIAN UNIVERSITY (BRU - Belarus, Mogilev) - engineer
+University: BELARUSIAN-RUSSIAN UNIVERSITY (BRU - Belarus, Mogilev)-engineer
 _ _ _
 ## Language:
 *	belorussian – mather tongue

@@ -1,2 +1,2 @@
 # rsschool-cv
-rsschool-cv stage1
+[cv-stage1](https://sashasnky.github.io/rsschool-cv/cv)
