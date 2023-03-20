@@ -1,11 +1,11 @@
 # Aliaksandr Sinitsky
 ## _Belarus, Mogilev_
 ![MyAvatar](Avatar.jpg)
-___
+_ _ _
 ## Contacts:
 -	Discord: AlexSN#9176
 -	E-mail: sanek-avto@yandex.by
-___
+_ _ _
 ## About me:
 I want to work in IT
 _ _ _
